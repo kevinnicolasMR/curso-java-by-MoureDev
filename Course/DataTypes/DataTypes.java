@@ -2,7 +2,7 @@ public class DataTypes {
 
     public static void main(Strings[] args){
 
-        // Primitive Data Types -- Datos con los que esta construida la base del codigo.
+        /*// Primitive Data Types -- Datos con los que esta construida la base del codigo.
 
         int number = 10; // Numeros enteros
         System.out.println(number);
@@ -19,7 +19,7 @@ public class DataTypes {
 
         // Como saber el tipo de dato?
         System.out.println(myString.getClass().getSimpleName()); // Para esto, al momento de definir el tipo, es necesario iniciar con mayuscula, en el casod e tratarse de un primitivo. Para agarrar su version chetada.
-
+*/
 
 
 

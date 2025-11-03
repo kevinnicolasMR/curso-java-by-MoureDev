@@ -1,6 +1,6 @@
 public class VariablesAndConstants{
     public static void main(Strings[] args){
-        // Variables
+       /* // Variables
         Strings name = "Kevin";
         System.out.println(name);
 
@@ -18,7 +18,7 @@ public class VariablesAndConstants{
         System.out.println(EMAIL);
 
         var pass = "My password"; // El tipo de la variable se define automaticamente usando var. Esto se llama inferencia de tipos, el lenguaje detecta automaticamente el tipo.
-
+*/
 
 
     }
