@@ -1,6 +1,6 @@
 public class DataTypes {
 
-    public static void main(String[] args){
+    public static void main(Strings[] args){
 
         // Primitive Data Types -- Datos con los que esta construida la base del codigo.
 
@@ -15,7 +15,7 @@ public class DataTypes {
 
         boolean myBoolean = true; // True o false
 
-        String myString = "Texto"; //Se suele decir que es primitvo por su usabilidad, pero en si es una class.
+        Strings myString = "Texto"; //Se suele decir que es primitvo por su usabilidad, pero en si es una class.
 
         // Como saber el tipo de dato?
         System.out.println(myString.getClass().getSimpleName()); // Para esto, al momento de definir el tipo, es necesario iniciar con mayuscula, en el casod e tratarse de un primitivo. Para agarrar su version chetada.

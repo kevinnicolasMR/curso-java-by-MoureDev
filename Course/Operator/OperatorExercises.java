@@ -1,6 +1,6 @@
 public class OperatorExercises {
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
 
         // 1. Crea una variable con el resultado de cada operaciÃ³n aritmÃ©tica.
         int a = 15;

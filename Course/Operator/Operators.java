@@ -1,5 +1,5 @@
 public class Operators {
-    public static void main(String[] args){
+    public static void main(Strings[] args){
         // Operators: Aritmeticos (Operaciones matematicas)
 
         double a = 4;

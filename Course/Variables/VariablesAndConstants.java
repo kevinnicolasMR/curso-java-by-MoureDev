@@ -1,7 +1,7 @@
 public class VariablesAndConstants{
-    public static void main(String[] args){
+    public static void main(Strings[] args){
         // Variables
-        String name = "Kevin";
+        Strings name = "Kevin";
         System.out.println(name);
 
         name = "Medina";
@@ -13,7 +13,7 @@ public class VariablesAndConstants{
 
         // Constants
 
-        final String EMAIL = "kevinnicolasmr@gmail.com";
+        final Strings EMAIL = "kevinnicolasmr@gmail.com";
         // email = "email"; (Las constantes no se modifican)
         System.out.println(EMAIL);
 
